@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raphaelvca
-- 👀 I’m interested in Sociology, Politics and Football
+- 👀 I’m interested in Sociology, Politics and Football.
 - 🌱 I’m currently learning Data Engineering, Machine Learning etc.
 - 💞️ I’m looking to collaborate on purpose driven Data Science.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/raphael-riege-aa15a914b/)
